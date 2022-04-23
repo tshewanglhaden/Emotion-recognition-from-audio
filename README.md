@@ -18,7 +18,8 @@ I used audio files to detect emotions from RAVDESS dataset which contains 1440 a
 Speech includes calm, happy, sad, angry, fearful, surprise, and disgust expressions. Each of the RAVDESS files has a unique filename. The filename consists of a 7-part numerical identifier as explained by https://smartlaboratory.org/ravdess/
 
 ## Libraries
-Libraries imported as shown below: [![1.jpg](https://i.postimg.cc/yxTy1TQq/1.jpg)](https://postimg.cc/H8Vy3b13)
+Libraries imported as shown below: 
+[![1.jpg](https://i.postimg.cc/yxTy1TQq/1.jpg)](https://postimg.cc/H8Vy3b13)
 
 
 
